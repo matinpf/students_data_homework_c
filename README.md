@@ -1,4 +1,4 @@
-# students information manager
+# C students information manager
 
 
 I take online c programing course one of project that have %25 score. writing program with c that manage student information and have the following ablity:  
