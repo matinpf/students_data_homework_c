@@ -4,7 +4,7 @@
 I take online c programing course one of project that have %25 score. writing program with c that manage student information and have the following ablity: 
 
 
-1- add student /n
+1- add student \n
 2- delete student
 3- view information all student
 4- search student with ID
