@@ -1,7 +1,7 @@
 # C students information manager
 
 
-I take online c programing course one of project that have %25 score. writing program with c that manage student information and have the following ablity:  
+I take an online c programing course on of project that has %25 score. Writing program with c that manages student information and has the following ability: 
 
 
 1- add student  
